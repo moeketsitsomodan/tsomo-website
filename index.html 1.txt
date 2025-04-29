@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tsomo Construction Health & Safety Services</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #ffb400; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #003366; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; }
+    footer { background: #003366; color: #fff; text-align: center; padding: 10px; margin-top: 20px; }
+    .logo { max-width: 150px; }
+    .contact-button { background: #ffb400; color: #fff; padding: 10px 15px; border: none; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="LOGO_PATH_HERE" alt="Tsomo Construction Logo" class="logo">
+  <h1>Tsomo Construction Health & Safety Services</h1>
+  <p><em>Building Safer Futures</em></p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About Us</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+  <h2>Welcome</h2>
+  <p>Welcome to Tsomo Construction Health & Safety Services. We are committed to building safer futures through expert training and professional health and safety services.</p>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Founded in 2018, Tsomo Construction Health & Safety Services is based in Botshabelo, Free State. We specialize in construction training, electrical safety, welding, scaffolding, and comprehensive health and safety programs. Our company is proudly registered (2018/364145/07) and B-BBEE certified.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Electrical Safety Training</li>
+    <li>Health and Safety Representative Training</li>
+    <li>Basic First Aid</li>
+    <li>Welding Safety</li>
+    <li>Risk Assessment Training</li>
+    <li>Inspection Services</li>
+    <li>Scaffolding Training</li>
+    <li>Tree Cutting and Felling</li>
+    <li>Lawn Mowing</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:moeketsitsomodan@gmail.com">moeketsitsomodan@gmail.com</a></p>
+  <p>Phone: 060 451 8058 / 068 103 3918 / 069 228 1564</p>
+  <p>Address: 477 Section A, Botshabelo, 9781</p>
+  <a href="#" class="contact-button">Message Us on WhatsApp</a>
+  <br><br>
+  <a href="#" class="contact-button">Visit our Facebook Page</a>
+</section>
+
+<footer>
+  <p>&copy; 2024 Tsomo Construction Health & Safety Services. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
